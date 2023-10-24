@@ -10,5 +10,15 @@ unidecode
 #regex
 openai-whisper
 
+# Image Processing
+matplotlib
+
+imageio
+imageio[pyav]
+scikit-video
+
+deepface
+
+
 # Dates
 #roman

@@ -6,8 +6,9 @@
 #xlsxwriter
 
 # Natural Language Processing
-regex
 unidecode
+#regex
+openai-whisper
 
 # Dates
 #roman

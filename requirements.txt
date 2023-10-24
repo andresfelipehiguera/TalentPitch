@@ -1,0 +1,13 @@
+#python-dotenv
+#requests
+
+#pandas
+#openpyxl
+#xlsxwriter
+
+# Natural Language Processing
+regex
+unidecode
+
+# Dates
+#roman
